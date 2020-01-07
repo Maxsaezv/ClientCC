@@ -36,6 +36,7 @@ const config = {
     // baseUrl: process.env.BASE_URL
     // baseUrl: 'https://colocolodevelopment.herokuapp.com/api',
     baseUrl: 'http://localhost:5000/api',
+    //baseUrl:
 
     configureHeaders() {
         return {
